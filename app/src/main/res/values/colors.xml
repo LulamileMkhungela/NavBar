@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <color name="colorPrimary">#2A9635</color>
+        <color name="colorPrimaryDark">#8670</color>
+        <color name="colorAccent">#5c9959</color>
+        <color name="textColor">#000000</color>
+        <color name="white">#FFFF</color>
+        <color name="inputText">#545454</color>
+        <color name="grid_borderColor">#2FA23E</color>
+        <color name="green">#2FA23E</color>
+        <color name="gradientColor">#5c9959</color>
+        <color name="headings">#FFF381</color>
+        <color name="black">#000000</color>
+
+        <!--color for nav-->
+
+        <color name="colorPrimary2">#278be3</color>
+        <color name="colorPrimaryDark2">#0f5998</color>
+        <color name="colorAccent2">#dae9f8</color>
+        <color name="colorNavIcon">#5c9959</color>
+        <color name="colorNavText">#01294b</color>
+        <color name="circleBorder">#50FFFFFF</color>
+        <color name="solidCircle">#49BEFF</color>
+        <color name="tabColor">#8670</color>
+    </resources>
+
+
